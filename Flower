@@ -1,0 +1,12 @@
+speed 5
+pen green
+rt 30,200
+pen yellow 
+rt 360,20 # the degree wold be 360
+lt 360,20
+rt 120,20
+lt 360,20
+lt 259,20
+rt 360,20
+rt 110,20
+lt 360,20
